@@ -3,7 +3,7 @@
 * WebPage [here](https://freskep.github.io/testWeb/dogPage/)
 * Lighting [here](https://freskep.github.io/lightning2/)
 * Lighting JS [here]()
-* Dice [here]()
+* Dice [here](https://freskep.github.io/daDice/)
 
 ```Java
 function draw() {
