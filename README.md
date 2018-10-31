@@ -5,7 +5,7 @@
 * Lighting JS [here]()
 * Dice [here](https://freskep.github.io/daDice/)
 * Chemotaxis [here](https://freskep.github.io/chemotaxis4/index.html)
-* Chemotaxis JS [here](https://freskep.github.io/chemotaxis4/index.html)
+* Chemotaxis JS [here](https://freskep.github.io/chemotaxis4/pJS/index.html)
 ```Java
 function draw() {
   background(155);
