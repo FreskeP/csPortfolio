@@ -6,7 +6,7 @@
 * Dice [here](https://freskep.github.io/daDice/)
 * Chemotaxis [here](https://freskep.github.io/chemotaxis4/index.html)
 * Chemotaxis JS [here](https://freskep.github.io/chemotaxis4/pJS/index.html)
-* Starfield [here](https://freskep.github.io/chemotaxis4/pJS/index.html)
+* Starfield [here](https://freskep.github.io/starfield5/index.html)
 ```Java
 function draw() {
   background(155);
