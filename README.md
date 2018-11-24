@@ -8,6 +8,7 @@
 * Chemotaxis JS [here](https://freskep.github.io/chemotaxis4/pJS/index.html)
 * Starfield [here](https://freskep.github.io/starfield5/index.html)
 ```Java
+void move {
 x+=speed;
     y+=speed+1;
     if (x>width-25) {
@@ -31,4 +32,5 @@ x+=speed;
       y=0;
       speed*=-1;
     }
+      }
 ```
