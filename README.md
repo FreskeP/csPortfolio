@@ -2,8 +2,8 @@
 
 * WebPage [here](https://freskep.github.io/testWeb/dogPage/)
 * Lighting [here](https://freskep.github.io/lightning2/)
-* College Presentation [here] (https://freskep.github.io/daDice/)
-* Guitar Hero [here] (https://freskep.github.io/daDice/)
+* College Presentation [here](https://freskep.github.io/daDice/)
+* Guitar Hero [here](https://freskep.github.io/daDice/)
 * Dice [here](https://freskep.github.io/daDice/)
 * Chemotaxis JS [here](https://freskep.github.io/chemotaxis4/pJS/index.html)
 * Starfield [here](https://freskep.github.io/starfield5/index.html)
