@@ -8,6 +8,12 @@
 * Chemotaxis JS [here](https://freskep.github.io/chemotaxis4/pJS/index.html)
 * Starfield [here](https://freskep.github.io/starfield5/index.html)
 ```Java
+
+Tough code!  this was really hard to figure out for me.  This code allows a jumboParticle to bounce off the screen.  This is how it works:
+-when x reaches the edge of the screen the speed variable flips direction
+-same for y
+-this creates a bouncing effect
+-once it reaches the bottom corner of the screen it travels to the top right corner and repeats infinitely
 void move {
 x+=speed;
     y+=speed+1;
