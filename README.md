@@ -2,9 +2,13 @@
 
 <details><summary><strong> My First WebPage!</strong></summary>
     <p>
-       <a href="https://freskep.github.io/testWeb/dogPage/)
+       <a href="https://freskep.github.io/testWeb/dogPage/">Link<a>
                 </p>
-* Lighting [here](https://freskep.github.io/lightning2/">Link<a>
+           
+* <details><summary><strong> A Little Lightning </strong></summary>
+<p>
+<a href= "https://freskep.github.io/lightning2/">Link<a>
+    </p>
 * College Presentation [here](https://freskep.github.io/daDice/)
 * Guitar Hero [here](https://freskep.github.io/daDice/)
 * Dice [here](https://freskep.github.io/daDice/)
