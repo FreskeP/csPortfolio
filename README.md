@@ -9,12 +9,30 @@
 <p>
 <a href= "https://freskep.github.io/lightning2/">Link<a>
     </p>
-* College Presentation [here](https://freskep.github.io/daDice/)
-* Guitar Hero [here](https://freskep.github.io/daDice/)
-* Dice [here](https://freskep.github.io/daDice/)
-* Chemotaxis JS [here](https://freskep.github.io/chemotaxis4/pJS/index.html)
-* Starfield [here](https://freskep.github.io/starfield5/index.html)
-* Reflection on trimester 1
+    </details>
+* <details><summary><strong> College Presentation</strong></summary>
+    <p>
+<a href="https://freskep.github.io/daDice/">Link<a>
+    </p>
+    </details>
+* <details><summary><strong> Deez Dice </strong></summary>
+        <p>
+    <a href="https://freskep.github.io/daDice/">Link<a>
+        </p>
+        </details>
+* <details><summary><strong> Cheeky Chemotaxis</strong></summary>
+            <p>
+            <a href="https://freskep.github.io/chemotaxis4/pJS/index.html">Link<a>
+                </p>
+                </details>
+* <details><summary><strong> Some Craziness (starfield)</strong></summary>
+                <p>
+               <a href="https://freskep.github.io/starfield5/index.html">Link<a>
+                   </p>
+                   </details>
+* <details><summary><strong> Tri 1 Reflection</strong></summary>
+                    <p>
+                        
 ```Java
 
 Tough code!  this was really hard to figure out for me.  This code allows a jumboParticle to bounce off the screen.  This is how it works:
