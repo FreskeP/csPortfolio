@@ -4,7 +4,7 @@
     <p>
        <a href="https://freskep.github.io/testWeb/dogPage/">Link<a>
                 </p>
-           
+           </details>
 * <details><summary><strong> A Little Lightning </strong></summary>
 <p>
 <a href= "https://freskep.github.io/lightning2/">Link<a>
