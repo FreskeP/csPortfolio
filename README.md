@@ -3,6 +3,7 @@
 <details><summary><strong> My First WebPage!</strong></summary>
     <p>
        <a href="https://freskep.github.io/testWeb/dogPage/">MyFavoriteMovies<a>
+           Making websites isn't very hard and it's really fun! This was a simple, fun way to start off the year.
                 </p>
            </details>
  <details><summary><strong> A Little Lightning </strong></summary>
