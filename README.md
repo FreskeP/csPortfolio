@@ -74,12 +74,12 @@ A lot of times it goes sorta like this:
 <br/>
 1. Take a minute and think about what I need to accomplish 
 <br/>2. Begin typing my solution 
-3. Realize an error in my idea
-4. Be stumped for a while
-5. Take another step back and I usually come up with part of the solution
-6. Ask someone for help finishing my thoughts.  I typically start out this question like, “hey, I know I have to do blah blah blah… but I’m kinda confused about how I should go about it.”
-7. Complete the problem!
-This is especially the case in projects like Starfield/chemotaxis when I spend a day or two working on a single element of my project.
+<br/>3. Realize an error in my idea
+<br/>4. Be stumped for a while
+<br/>5. Take another step back and I usually come up with part of the solution
+<br/>6. Ask someone for help finishing my thoughts.  I typically start out this question like, “hey, I know I have to do blah blah blah… but I’m kinda confused about how I should go about it.”
+<br/>7. Complete the problem!
+<br/>This is especially the case in projects like Starfield/chemotaxis when I spend a day or two working on a single element of my project.
 </p>
 </details>
                         
