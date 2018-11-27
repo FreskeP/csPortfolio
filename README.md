@@ -32,7 +32,7 @@
                    </details>
 * <details><summary><strong> Tri 1 Reflection</strong></summary>
                     <p>
-                        Reflect on all your portfolio projects.  
+                        Reflect on all your portfolio projects. /n
 -lightning: I was very confused as to how the lightning project worked and this is very evident because it’s my worst one.  I didn’t understand how the class functioned.  Plus I sat alone so I didn’t get the chance to work with others.  I struggled with the one. 
 
 -dice: I felt this was the easiest one out of all the projects we did and I’m happy with how it turned out.  I didn’t do anything too interesting because I needed to keep moving, but I made a fully functional table of dice with a counter for each number.  
