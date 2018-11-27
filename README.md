@@ -15,6 +15,7 @@
  <details><summary><strong> College Presentation</strong></summary>
     <p>
 <a href="https://freskep.github.io/daDice/">KnowledgeIsHere<a>
+    I didn't enjoy this project, but I defintely understand why we did it.  It's helpful to get us thinking about our future and it's also helpful seeing what coding in the real world is like.  I learned a lot.
     </p>
     </details>
 
