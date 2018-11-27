@@ -64,12 +64,12 @@ This is in no way complicated code, and it isn’t the toughest bit <br/>of code
 
 
 
-Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
+-Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
 
 I was struggling a lot on the projects and felt extremely far behind everyone else in the class.  This was in part because I sat alone in a row and also because I didn’t do much outside of class.  I thought of this class as class where a lot of the work is done in school.  Once I realized I was falling behind I sought to fix this as quick as possible.  I did this by switching seats and doing more outside class.  This helped me a lot and I am significantly more productive in class now.
 
-Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
--A lot of times it goes sorta like this: 
+-Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
+*A lot of times it goes sorta like this: 
 Take a minute and think about what I need to accomplish 
 Begin typing my solution 
 Realize an error in my idea
