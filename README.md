@@ -7,12 +7,15 @@
            </details>
  <details><summary><strong> A Little Lightning </strong></summary>
 <p>
+   
 <a href= "https://freskep.github.io/lightning2/">CickToGetShocked<a>
+    I was very confused as to how the lightning project worked and this is very evident because it’s my worst one. I didn’t understand how the class functioned. Plus I sat alone so I didn’t get the chance to work with others. I struggled with the one.
     </p>
     </details>
  <details><summary><strong> College Presentation</strong></summary>
     <p>
 <a href="https://freskep.github.io/daDice/">KnowledgeIsHere<a>
+    I felt this was the easiest one out of all the projects we did and I’m happy with how it turned out.  I didn’t do anything too interesting because I needed to keep moving, but I made a fully functional table of dice with a counter for each number.  
     </p>
     </details>
  <details><summary><strong> Deez Dice </strong></summary>
@@ -23,25 +26,20 @@
  <details><summary><strong> Cheeky Chemotaxis</strong></summary>
             <p>
             <a href="https://freskep.github.io/chemotaxis4/pJS/index.html">ClickToShootHoops<a>
+                This is the lab the got me really behind.  I struggled a lot right away because I just didn’t know where to begin problem solving.  Again, I sat alone so I had no one to assist me.  I ended up doing something that isn’t the exact idea you wanted from us, but still sorta counts as chemotaxis in a way.  I got even more behind when a little error halted all progress for a a little over a day.  But finally solving the issue without any help was extremely satisfying.  
+
                 </p>
                 </details>
 <details><summary><strong> Some Craziness (starfield)</strong></summary>
                 <p>
                <a href="https://freskep.github.io/starfield5/index.html">ClickToBeUnder-Impressed<a>
+                I got a late start on this one and I’m kinda indifferent with the result.  I really like my jumbo particle bouncing around off the border of the screen and I also like the figure 8 pattern I got going but it’s overall kinda bland to look at.  Still the coolest looking one in my portfolio.  
+   
                    </p>
                    </details>
 <details><summary><strong> Tri 1 Reflection</strong></summary>
                     <p>
-                        Reflect on all your portfolio projects: <br/> <br/>
--lightning: I was very confused as to how the lightning project worked and this is very evident because it’s my worst one.  I didn’t understand how the class functioned.  Plus I sat alone so I didn’t get the chance to work with others.  I struggled with the one. 
-
--dice: I felt this was the easiest one out of all the projects we did and I’m happy with how it turned out.  I didn’t do anything too interesting because I needed to keep moving, but I made a fully functional table of dice with a counter for each number.  
-
--chemotaxis:  This is the lab the got me really behind.  I struggled a lot right away because I just didn’t know where to begin problem solving.  Again, I sat alone so I had no one to assist me.  I ended up doing something that isn’t the exact idea you wanted from us, but still sorta counts as chemotaxis in a way.  I got even more behind when a little error halted all progress for a a little over a day.  But finally solving the issue without any help was extremely satisfying.  
-
--starfield: I got a late start on this one and I’m kinda indifferent with the result.  I really like my jumbo particle bouncing around off the border of the screen and I also like the figure 8 pattern I got going but it’s overall kinda bland to look at.  Still the coolest looking one in my portfolio.  
-
- 
+                       
 What is one or two things that are a source of pride in your programming development?  
 -I’m proud that every piece of code is my own or you helped me with it.  While my code is very complicated or sophisticated, I don’t take it from anyone sitting near me, nor do I take it off the internet.   This makes the end product more satisfying.
 
