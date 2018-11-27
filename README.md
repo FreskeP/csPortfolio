@@ -2,7 +2,7 @@
 
 <details><summary><strong> My First WebPage!</strong></summary>
     <p>
-       <a href="https://freskep.github.io/testWeb/dogPage/">Link<a>
+       <a href="https://freskep.github.io/testWeb/dogPage/">SUPER<a>
                 </p>
            </details>
  <details><summary><strong> A Little Lightning </strong></summary>
