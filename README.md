@@ -21,10 +21,10 @@
  <details><summary><strong> Deez Dice </strong></summary>
         <p>
     <a href="https://freskep.github.io/daDice/">ClickToShake<a>
+        I felt this was the easiest one out of all the projects we did and I’m happy with how it turned out.  I didn’t do anything too interesting because I needed to keep moving, but I made a fully functional table of dice with a counter for each number.
         </p>
         </details>
  <details><summary><strong> Cheeky Chemotaxis</strong></summary>
-     I felt this was the easiest one out of all the projects we did and I’m happy with how it turned out.  I didn’t do anything too interesting because I needed to keep moving, but I made a fully functional table of dice with a counter for each number.
             <p>
             <a href="https://freskep.github.io/chemotaxis4/pJS/index.html">ClickToShootHoops<a>
                 This is the lab the got me really behind.  I struggled a lot right away because I just didn’t know where to begin problem solving.  Again, I sat alone so I had no one to assist me.  I ended up doing something that isn’t the exact idea you wanted from us, but still sorta counts as chemotaxis in a way.  I got even more behind when a little error halted all progress for a a little over a day.  But finally solving the issue without any help was extremely satisfying.  
