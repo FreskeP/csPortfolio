@@ -2,32 +2,32 @@
 
 <details><summary><strong> My First WebPage!</strong></summary>
     <p>
-       <a href="https://freskep.github.io/testWeb/dogPage/">SUPER<a>
+       <a href="https://freskep.github.io/testWeb/dogPage/">MyFavoriteMovies<a>
                 </p>
            </details>
  <details><summary><strong> A Little Lightning </strong></summary>
 <p>
-<a href= "https://freskep.github.io/lightning2/">Link<a>
+<a href= "https://freskep.github.io/lightning2/">CickToGetShocked<a>
     </p>
     </details>
  <details><summary><strong> College Presentation</strong></summary>
     <p>
-<a href="https://freskep.github.io/daDice/">Link<a>
+<a href="https://freskep.github.io/daDice/">KnowledgeIsHere<a>
     </p>
     </details>
  <details><summary><strong> Deez Dice </strong></summary>
         <p>
-    <a href="https://freskep.github.io/daDice/">Link<a>
+    <a href="https://freskep.github.io/daDice/">ClickToShake<a>
         </p>
         </details>
  <details><summary><strong> Cheeky Chemotaxis</strong></summary>
             <p>
-            <a href="https://freskep.github.io/chemotaxis4/pJS/index.html">Link<a>
+            <a href="https://freskep.github.io/chemotaxis4/pJS/index.html">ClickToShootHoops<a>
                 </p>
                 </details>
 <details><summary><strong> Some Craziness (starfield)</strong></summary>
                 <p>
-               <a href="https://freskep.github.io/starfield5/index.html">Link<a>
+               <a href="https://freskep.github.io/starfield5/index.html">ClickToBeUnder-Impressed<a>
                    </p>
                    </details>
 <details><summary><strong> Tri 1 Reflection</strong></summary>
