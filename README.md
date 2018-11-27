@@ -5,34 +5,34 @@
        <a href="https://freskep.github.io/testWeb/dogPage/">Link<a>
                 </p>
            </details>
-* <details><summary><strong> A Little Lightning </strong></summary>
+ <details><summary><strong> A Little Lightning </strong></summary>
 <p>
 <a href= "https://freskep.github.io/lightning2/">Link<a>
     </p>
     </details>
-* <details><summary><strong> College Presentation</strong></summary>
+ <details><summary><strong> College Presentation</strong></summary>
     <p>
 <a href="https://freskep.github.io/daDice/">Link<a>
     </p>
     </details>
-* <details><summary><strong> Deez Dice </strong></summary>
+ <details><summary><strong> Deez Dice </strong></summary>
         <p>
     <a href="https://freskep.github.io/daDice/">Link<a>
         </p>
         </details>
-* <details><summary><strong> Cheeky Chemotaxis</strong></summary>
+ <details><summary><strong> Cheeky Chemotaxis</strong></summary>
             <p>
             <a href="https://freskep.github.io/chemotaxis4/pJS/index.html">Link<a>
                 </p>
                 </details>
-* <details><summary><strong> Some Craziness (starfield)</strong></summary>
+<details><summary><strong> Some Craziness (starfield)</strong></summary>
                 <p>
                <a href="https://freskep.github.io/starfield5/index.html">Link<a>
                    </p>
                    </details>
-* <details><summary><strong> Tri 1 Reflection</strong></summary>
+<details><summary><strong> Tri 1 Reflection</strong></summary>
                     <p>
-                        Reflect on all your portfolio projects. <br/>
+                        Reflect on all your portfolio projects: <br/> <br/>
 -lightning: I was very confused as to how the lightning project worked and this is very evident because it’s my worst one.  I didn’t understand how the class functioned.  Plus I sat alone so I didn’t get the chance to work with others.  I struggled with the one. 
 
 -dice: I felt this was the easiest one out of all the projects we did and I’m happy with how it turned out.  I didn’t do anything too interesting because I needed to keep moving, but I made a fully functional table of dice with a counter for each number.  
