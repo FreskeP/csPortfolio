@@ -6,8 +6,7 @@
                 </p>
            </details>
  <details><summary><strong> A Little Lightning </strong></summary>
-<p>
-   
+<p>   
 <a href= "https://freskep.github.io/lightning2/">CickToGetShocked<a>
     I was very confused as to how the lightning project worked and this is very evident because it’s my worst one. I didn’t understand how the class functioned. Plus I sat alone so I didn’t get the chance to work with others. I struggled with the one.
     </p>
