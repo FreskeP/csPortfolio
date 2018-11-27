@@ -47,7 +47,7 @@ What is one or two things that are a source of pride in your programming develop
 
 Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo. <br/>
 
-
+```Java
 void draw()
 {
  
@@ -57,10 +57,10 @@ void draw()
       die=new Die(r, c);
        die.display();
        
-       
+   ```
    <br/>
    
-This is in no way complicated code, and it isn’t the toughest bit of code from my projects either but this stands out to me because I was really happy that it worked when I first tried it because it took me a little bit to think of a way to get a bunch of dice on the screen without using an array.  The syntax was what threw me off. 
+This is in no way complicated code, and it isn’t the toughest bit <br/>of code i utilized in my projects either but this stands out to me<br/> because I was really happy that it worked when I first tried it<br/> because it took me a little bit to think of a way to get <br/> a bunch of dice on the screen without using an array. <br/> The syntax was what threw me off. 
 
 
 
