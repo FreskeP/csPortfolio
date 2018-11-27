@@ -34,9 +34,10 @@
                 <p>
                <a href="https://freskep.github.io/starfield5/index.html">ClickToBeUnder-Impressed<a>
                 I got a late start on this one and I’m kinda indifferent with the result.  I really like my jumbo particle bouncing around off the border of the screen and I also like the figure 8 pattern I got going but it’s overall kinda bland to look at.  Still the coolest looking one in my portfolio.  
-   
                    </p>
                    </details>
+                   
+                   
 <details><summary><strong> Tri 1 Reflection</strong></summary>
                     <p>
                        
