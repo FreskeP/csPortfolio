@@ -46,8 +46,9 @@ What is one or two things that are a source of pride in your programming develop
 -I’m proud that every piece of code is my own or you helped me with it.  While my code is very complicated or sophisticated, I don’t take it from anyone sitting near me, nor do I take it off the internet.   This makes the end product more satisfying.
 
 Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo. <br/>
-</p>
-```Java void draw()
+
+
+void draw()
 {
  
   background(60);
@@ -56,9 +57,9 @@ Identify them, write about why they are accomplishments, how you did it and what
       die=new Die(r, c);
        die.display();
        
-       ```
+       
    <br/>
-   <p>
+   
 This is in no way complicated code, and it isn’t the toughest bit of code from my projects either but this stands out to me because I was really happy that it worked when I first tried it because it took me a little bit to think of a way to get a bunch of dice on the screen without using an array.  The syntax was what threw me off. 
 
 
