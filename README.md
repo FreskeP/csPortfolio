@@ -39,7 +39,7 @@
                    </p>
                    </details>
                    
-   <details><summary><strong> A Little Lightning </strong></summary>
+   <details><summary><strong> Race of the Ages </strong></summary>
 <p>   
 <a href= "https://freskep.github.io/TrackSim/">ClickFORaRACE<a>
    Really fun lab that utilyzes calculus, maps, and file parsing.  Never reached its full potential.
