@@ -25,26 +25,14 @@
         I felt this was the easiest one out of all the projects we did and I’m happy with how it turned out.  I didn’t do anything too interesting because I needed to keep moving, but I made a fully functional table of dice with a counter for each number.
         </p>
         </details>
- <details><summary><strong> Cheeky Chemotaxis</strong></summary> 
-            <p>   
-            <a href="https://freskep.github.io/chemotaxis4/pJS/index.html">ClickToShootHoops<a>
-                This is the lab the got me really behind.  I struggled a lot right away because I just didn’t know where to begin problem solving.  Again, I sat alone so I had no one to assist me.  I ended up doing something that isn’t the exact idea you wanted from us, but still sorta counts as chemotaxis in a way.  I got even more behind when a little error halted all progress for a a little over a day.  But finally solving the issue without any help was extremely satisfying.  
-                </p>
-                </details>           
+
 <details><summary><strong> Some Craziness (starfield)</strong></summary>
                 <p>
                <a href="https://freskep.github.io/starfield5/index.html">ClickToBeUnder-Impressed<a>
                 I got a late start on this one and I’m kinda indifferent with the result.  I really like my jumbo particle bouncing around off the border of the screen and I also like the figure 8 pattern I got going but it’s overall kinda bland to look at.  Still the coolest looking one in my portfolio.  
                    </p>
-                   </details>
-                   
-   <details><summary><strong> Race of the Ages </strong></summary>
-<p>   
-<a href= "https://freskep.github.io/TrackSim/">ClickFORaRACE<a>
-   Really fun lab that utilyzes calculus, maps, and file parsing.  Never reached its full potential.
-    </p>
-    </details>         
-    
+                   </details>                   
+   
    <details><summary><strong> Winter Wonderland </strong></summary>
 <p>   
 <a href= "https://freskep.github.io/HolidayCard2018/">Click4Joy<a>
@@ -145,4 +133,13 @@ x+=speed;
     </p>
     </details>   
     
-![logo](/images/sim.png)                    
+![logo](/images/sim.png)   
+
+<details><summary><strong> A Little Lightning </strong></summary>
+<p>   
+<a href= "https://freskep.github.io/lightning2/">CickToGetShocked<a>
+    I was very confused as to how the lightning project worked and this is very evident because it’s my worst one. I didn’t understand how the class functioned. Plus I sat alone so I didn’t get the chance to work with others. I struggled with the one.
+    </p>
+    </details>
+
+![logo](/images/lightning.png) 
