@@ -135,6 +135,7 @@ x+=speed;
                 This is the lab the got me really behind.  I struggled a lot right away because I just didn’t know where to begin problem solving.  Again, I sat alone so I had no one to assist me.  I ended up doing something that isn’t the exact idea you wanted from us, but still sorta counts as chemotaxis in a way.  I got even more behind when a little error halted all progress for a a little over a day.  But finally solving the issue without any help was extremely satisfying.  
                 </p>
                 </details>    
+                
 ![logo](/images/chemot.png)    
 
   <details><summary><strong> Race of the Ages </strong></summary>
