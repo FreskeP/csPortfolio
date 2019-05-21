@@ -46,6 +46,13 @@
     </p>
     </details>         
     
+   <details><summary><strong> Winter Wonderland </strong></summary>
+<p>   
+<a href= "https://freskep.github.io/HolidayCard2018/">Click4Joy<a>
+    Me and a partner worked together on this beautiful christmas setpiece.  He contributed the snow effects.  I did the rest.  
+    </p>
+    </details> 
+    
 <details><summary><strong> Tri 1 Reflection</strong></summary>
                     <p>
                        
