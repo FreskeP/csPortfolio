@@ -39,7 +39,13 @@
                    </p>
                    </details>
                    
-                   
+    <details><summary><strong> A Little Lightning </strong></summary>
+<p>   
+<a href= "https://freskep.github.io/TrackSim/">ClickFORaRACE<a>
+   Really fun lab that utilyzes calculus, maps, and file parsing.  Never reached its full potential.
+    </p>
+    </details>         
+    
 <details><summary><strong> Tri 1 Reflection</strong></summary>
                     <p>
                        
