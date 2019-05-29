@@ -86,35 +86,43 @@ A lot of times it goes sorta like this:
                         
 ```Java
 
-Tough code!  this was really hard to figure out for me.  This code allows a jumboParticle to bounce off the screen.  This is how it works:
--when x reaches the edge of the screen the speed variable flips direction
--same for y
--this creates a bouncing effect
--once it reaches the bottom corner of the screen it travels to the top right corner and repeats infinitely
-void move {
-x+=speed;
-    y+=speed+1;
-    if (x>width-25) {
-      x=width-25;
-      speed*=-1;
-    }
-    else if (x<0) {
-      x=0;
-      speed*=-1;
-    }
-    else if (y>height-25) {
-      y=height-25;
-      speed*=-1;
-    }
-    else if (y<0) {
-      y=0;
-      speed*=-1;
-    }
-   if (x<25 && y>400) {
-      x=width-25;
-      y=0;
-      speed*=-1;
-    }
+Tough code!  this was really hard to figure out for me. I had to get a couple friends to work with me to make it happen.  It required the appliction of Calculus.  The code uses the unit circle to allow the Runne object to rotate around the curves of the track.  It utilyzes an "angle" variable that is changed based on its location using polar values, not standard x and y values.
+
+
+      if (xLoc>=758 && xLoc<=945 && angle<=(PI/2)) {
+        angle+=(PI/120);
+        xLoc+=-4.75*sin(angle);
+        yLoc-=4.275*cos(angle);
+        
+      }
+
+      //backstretch
+      if (xLoc>230 && xLoc<=755 && yLoc<400) {
+        xLoc-=2;
+      }
+
+      //second curve
+
+      if (xLoc<=230 && xLoc>=50 && angle<=((3*PI)/2)) {
+        angle+=(PI/120);
+        xLoc+=-4.75*sin(angle);
+        yLoc-=4.275*cos(angle);
+      }
+
+      //homestretch
+      if (xLoc>=229 && xLoc<=758 && yLoc>400) {
+        xLoc+=2;
+      }
+      if (xLoc==757&&yLoc==507) {
+        angle=(-PI/2);
+        
+      }
+      if (angle==(4.686209)) {
+        xLoc=758;   
+        yLoc=507;
+        angle=(-PI/2);  
+        
+        println(lapCount);
       }
 ```
 <details><summary><strong> Cheeky Chemotaxis</strong></summary> 
