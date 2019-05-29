@@ -40,34 +40,40 @@
     </p>
     </details> 
     
-<details><summary><strong> Tri 1 Reflection</strong></summary>
+<details><summary><strong> Tri 3 Reflection</strong></summary>
                     <p>
                        
 What is one or two things that are a source of pride in your programming development?  
--I’m proud that every piece of code is my own or you helped me with it.  While my code is very complicated or sophisticated, I don’t take it from anyone sitting near me, nor do I take it off the internet.   This makes the end product more satisfying.
+-I'm proud that while i wasn't able to do every line of code on my own, I challenged myself with a tough project idea that I stuck with because it was really cool to me.
 
 Identify them, write about why they are accomplishments, how you did it and what you learned.  Be sure to submit a code snippet along with your writing on the readMe file in your repo. <br/>
 
 ```Java
-void draw()
-{
- 
-  background(60);
-   for (int r=0; r<1200; r=r+100) {
-    for (int c=0; c<500; c=c+100) {
-      die=new Die(r, c);
-       die.display();
+private TreeNode add(Comparable val, TreeNode tree) {
+    if (tree == null)
+      tree = new TreeNode(val);
+
+    Comparable treeValue = tree.getValue();
+    int dirTest = val.compareTo(treeValue);    
+
+    if (dirTest < 0)
+      tree.setLeft(add(val, tree.getLeft()));
+    else if (dirTest > 0)
+      tree.setRight(add(val, tree.getRight()));
+
+    return tree;
+  }
        
    
    <br/>
    
-This is in no way complicated code, and it isn’t the toughest bit <br/>of code i utilized in my projects either but this stands out to me<br/> because I was really happy that it worked when I first tried it<br/> because it took me a little bit to think of a way to get <br/> a bunch of dice on the screen without using an array. <br/> The syntax was what threw me off. 
+I honestly dont fully understand the ins and outs of trees, but it was still cool to see how more complex data structures are used. 
 
 ```
 
 -Identify the most significant hurdle you encountered last trimester.  Write about what it was and how it was resolved.
 
-I was struggling a lot on the projects and felt extremely far behind everyone else in the class.  This was in part because I sat alone in a row and also because I didn’t do much outside of class.  I thought of this class as class where a lot of the work is done in school.  Once I realized I was falling behind I sought to fix this as quick as possible.  I did this by switching seats and doing more outside class.  This helped me a lot and I am significantly more productive in class now.
+I struggled comprehending the new intense concepts we were introduced to this trimester.  I tried no to feel like it was too much to handle and i tried to push through.  I resolved it by not giving up and learning from people who grasp the concepts.
 
 -Describe the incremental and iterative development process of your included code, focusing on two distinct points in that process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development
 <br/> 
